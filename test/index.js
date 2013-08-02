@@ -28,7 +28,6 @@ test("computeUTC({ 2012/1/1, New York })", function (assert) {
 
 test("computeUTC({ 2013/3/9, New York })", function (assert) {
     var isoWeek = getISOWeek("2013/3/9")
-    // console.log("week", isoWeek)
     var time = computeMonday(isoWeek, "America/New_York")
 
     assert.equal(date(time), "Mon, 04 Mar 2013 14:00:00 GMT")
