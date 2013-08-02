@@ -47,7 +47,7 @@ var date3 = timezone.time("America/New_York", date2)
   [1]: https://secure.travis-ci.org/Colingo/timezone-compute.png
   [2]: https://travis-ci.org/Colingo/timezone-compute
   [3]: https://nodei.co/npm/timezone-compute.png
-  [4]: https://nodei.co/npm/timezone-compute
+  [4]: https://nodei.co/npm/timezone-compute/
   [5]: https://coveralls.io/repos/Colingo/timezone-compute/badge.png
   [6]: https://coveralls.io/r/Colingo/timezone-compute
   [7]: https://gemnasium.com/Colingo/timezone-compute.png
