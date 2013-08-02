@@ -1,14 +1,10 @@
 # timezone-compute
 
-<!--
-    [![build status][1]][2]
-    [![NPM version][3]][4]
-    [![Coverage Status][5]][6]
-    [![gemnasium Dependency Status][7]][8]
-    [![Davis Dependency status][9]][10]
--->
+[![build status][1]][2] [![Coverage Status][5]][6] [![gemnasium Dependency Status][7]][8] [![Davis Dependency status][9]][10]
 
-<!-- [![browser support][11]][12] -->
+[![NPM][3]][4]
+
+[![browser support][11]][12]
 
 A timezone library with timezone conversion functions
 
@@ -50,8 +46,8 @@ var date3 = timezone.time("America/New_York", date2)
 
   [1]: https://secure.travis-ci.org/Colingo/timezone-compute.png
   [2]: https://travis-ci.org/Colingo/timezone-compute
-  [3]: https://badge.fury.io/js/timezone-compute.png
-  [4]: https://badge.fury.io/js/timezone-compute
+  [3]: https://nodei.co/npm/timezone-compute.png
+  [4]: https://nodei.co/npm/timezone-compute
   [5]: https://coveralls.io/repos/Colingo/timezone-compute/badge.png
   [6]: https://coveralls.io/r/Colingo/timezone-compute
   [7]: https://gemnasium.com/Colingo/timezone-compute.png
