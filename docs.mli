@@ -17,7 +17,12 @@ type Timezone := {
         week: Number,
         day: Number
     },
-    time: (timezone: String, MaybeDate) => MomentDate
+    time: (timezone: String, MaybeDate) => MomentDate,
+    SECOND: Number,
+    MINUTE: Number,
+    HOUR: Number,
+    DAY: Number,
+    WEEK: Number
 }
 
 timezone-compute := Timezone

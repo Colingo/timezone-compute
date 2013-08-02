@@ -12,7 +12,12 @@ function  Timezone(zoneData) {
         computeUTC: computeUTC,
         getISOWeek: getISOWeek,
         time: time,
-        zonesData: zoneData
+        zonesData: zoneData,
+        SECOND: 1000,
+        MINUTE: 60 * 1000,
+        HOUR: 60 * 60 * 1000,
+        DAY: 24 * 60 * 60 * 1000,
+        WEEK: 7 * 24 * 60 * 60 * 1000
     }
 
     function format(timezone, date, formatter) {
