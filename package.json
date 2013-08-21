@@ -1,6 +1,6 @@
 {
   "name": "timezone-compute",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "A timezone library with timezone conversion functions",
   "keywords": [],
   "author": "Raynos <raynos2@gmail.com>",
